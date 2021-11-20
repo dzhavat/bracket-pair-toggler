@@ -2,7 +2,7 @@
   "name": "bracket-pair-toggler",
   "displayName": "bracket-pair-toggler",
   "description": "Toggle 'Bracket Pair Colorization'",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "engines": {
     "vscode": "^1.62.0"
   },
