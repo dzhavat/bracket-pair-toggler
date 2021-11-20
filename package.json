@@ -1,14 +1,20 @@
 {
   "name": "bracket-pair-toggler",
-  "displayName": "bracket-pair-toggler",
-  "description": "Toggle 'Bracket Pair Colorization'",
+  "displayName": "Bracket Pair Colorization Toggler",
+  "description": "Easily toggle 'Bracket Pair Colorization'",
+  "publisher": "dzhavat",
   "version": "0.0.0",
   "engines": {
     "vscode": "^1.62.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dzhavat/bracket-pair-toggler.git"
+  },
   "categories": [
     "Other"
   ],
+  "license": "MIT",
   "activationEvents": [
     "onCommand:bracket-pair-toggler.run"
   ],
