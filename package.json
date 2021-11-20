@@ -3,7 +3,7 @@
   "displayName": "Bracket Pair Colorization Toggler",
   "description": "Easily toggle 'Bracket Pair Colorization'",
   "publisher": "dzhavat",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "engines": {
     "vscode": "^1.62.0"
   },
