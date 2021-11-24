@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.0.2 - 2021-11-24
+
+### Added
+
+- Extension icon
+
 ## 0.0.1 - 2021-11-20
 
 - Initial release
