@@ -1,6 +1,6 @@
 # Bracket Pair Colorization Toggler
 
-A simple extension that lets you easily toggle the global "[Bracket Pair Colorization](https://code.visualstudio.com/updates/v1_60#_high-performance-bracket-pair-colorization)" setting added in VS Code v1.60.
+A VS Code extension that gives you a simple command to quickly toggle the global “[Bracket Pair Colorization](https://code.visualstudio.com/updates/v1_60#_high-performance-bracket-pair-colorization)” setting added in VS Code v1.60.
 
 ## How to run
 
@@ -8,7 +8,7 @@ A simple extension that lets you easily toggle the global "[Bracket Pair Coloriz
 
 ## Important
 
-The extension only toggles the **global** "Bracket Pair Colorization" setting. If you have set the setting in your workspace, the extension will not work.
+The extension only toggles the **global** “Bracket Pair Colorization” setting. If you have set the setting in your workspace, the extension will not work.
 
 ## Demo
 
